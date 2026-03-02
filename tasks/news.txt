@@ -1,0 +1,5 @@
+Let’s give the player the ability to move the ship right and left. To do this, 
+we’ll write code that responds when the player presses the right or left 
+arrow key. We’ll focus on movement to the right first, and then we’ll apply 
+the same principles to control movement to the left. As you do this, you’ll 
+learn how to control the movement of images on the screen.
