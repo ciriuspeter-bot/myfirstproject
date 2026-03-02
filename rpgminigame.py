@@ -99,4 +99,3 @@ for level in range(1, 6):
 else:
     print(f"\n🏆 축하합니다! {player.name}는 모든 던전을 클리어했습니다!")
 
-print("\n게임을 즐겨주셔서 감사합니다!")
